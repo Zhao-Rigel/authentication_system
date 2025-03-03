@@ -10,7 +10,7 @@
 
 可通过dockerfile构建docker镜像
 
-（requriement好像包含了一些用不到的东西，不太确定）
+（requirement好像包含了一些用不到的东西，不太确定）
 
 ## 功能
 
