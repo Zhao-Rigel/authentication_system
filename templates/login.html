@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <title>Login</title>
+</head>
+<body>
+    <div class="form-container">
+        <h1>Login</h1>
+        <form method="POST" action="/login">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+            
+            <label for="token">TOTP Code:</label>
+            <p>you may get it from your 2FA app like Google Authenticator or Authy</p>
+            <input type="text" id="token" name="token" required>
+            
+            <button type="submit">Login</button>
+        </form>
+        <p>Forgot your password? <a href="/reset">Reset here</a>.</p>
+        <p>Don't have an account? <a href="/register">Register here</a></p>
+    </div>
+</body>
+</html>
