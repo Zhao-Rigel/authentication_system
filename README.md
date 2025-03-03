@@ -19,3 +19,8 @@
 重置密码
 
 注册账号
+
+
+
+https://github.com/user-attachments/assets/e2f1d761-f853-42d0-8040-6ae3e33d203d
+
