@@ -20,7 +20,6 @@
 
 注册账号
 
-
-
 https://github.com/user-attachments/assets/e2f1d761-f853-42d0-8040-6ae3e33d203d
 
+（由于github上传视频的大小限制，我只能传一个高糊的视频了，将就看）
